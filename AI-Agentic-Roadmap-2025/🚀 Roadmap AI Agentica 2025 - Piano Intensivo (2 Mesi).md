@@ -29,8 +29,9 @@ pip install langchain langgraph openai azure-openai streamlit gradio fastapi pan
 
 **Risorse di Riferimento:**
 
-- 📖 [AI Agent in pratica - Michael Lanham (Apogeo, 2025)](https://www.apogeonline.com/libri/ai-agent-in-pratica-micheal-lanham/)
-- 🎓 [Agentic AI with LangChain and LangGraph - Coursera](https://www.coursera.org/learn/agentic-ai-with-langchain-and-langgraph)
+- [ ] ** [Agentic AI with LangChain and LangGraph - Coursera](https://www.coursera.org/learn/agentic-ai-with-langchain-and-langgraph)
+- [ ] ** - 📖 [AI Agent in pratica - Michael Lanham (Apogeo, 2025)](https://www.apogeonline.com/libri/ai-agent-in-pratica-micheal-lanham/)
+
 
 ---
 
