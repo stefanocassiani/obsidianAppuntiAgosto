@@ -34,7 +34,7 @@ pip install langchain langgraph openai azure-openai streamlit gradio fastapi pan
 
 ---
 
-## 🧠 LIVELLO 1: FONDAMENTI BASE - Settimana 1-2
+## 🧠 LIVELLO 1: FONDAMENTI BASE - Settimana 1-2ex
 
 ### 1.1 Programming & Prompting
 
