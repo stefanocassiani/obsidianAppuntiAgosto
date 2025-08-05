@@ -1,0 +1,21 @@
+{
+    "community-plugins": [
+        "linter",
+        "omnisearch",
+        "calendar",
+        "periodic-notes"
+    ],
+    "plugin-settings": {
+        "periodic-notes": {
+            "daily": {
+                "enabled": true
+            },
+            "weekly": {
+                "enabled": false
+            },
+            "monthly": {
+                "enabled": false
+            }
+        }
+    }
+}

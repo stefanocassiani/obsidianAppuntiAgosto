@@ -1,0 +1,26 @@
+# Ignora la cache e le impostazioni locali di Obsidian
+.obsidian/workspace.json
+.obsidian/cache
+.obsidian/appearance.json
+.obsidian/community-plugins.json
+
+# Ignora i plugin installati (opzionale: se vuoi versionare solo i settings)
+.obsidian/plugins/
+.obsidian/themes/
+
+# File di backup temporanei di Obsidian / OS
+*.tmp
+*.bak
+~$*
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Evita conflitti con OneDrive e app Office
+*.lnk
+~*.md
+
+# Altri file che spesso non vuoi versionare
+node_modules/
+.vscode/

@@ -1,0 +1,25 @@
+{
+  "community-plugins": [
+    "linter",
+    "omnisearch",
+    "calendar",
+    "periodic-notes"
+  ],
+  "plugin-settings": {
+    "periodic-notes": {
+      "daily":        { "enabled": true },
+      "weekly":       { "enabled": true },
+      "monthly":      { "enabled": true },
+      "templates": {
+        "daily":   "Templates/Daily_Template.md",
+        "weekly":  "Templates/Weekly_Template.md",
+        "monthly": "Templates/Monthly_Template.md"
+      },
+      "folders": {
+        "daily":   "Daily",
+        "weekly":  "Weekly",
+        "monthly": "Monthly"
+      }
+    }
+  }
+}
