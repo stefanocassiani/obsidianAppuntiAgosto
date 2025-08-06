@@ -303,6 +303,7 @@ pip install langchain langgraph openai azure-openai streamlit gradio fastapi pan
 ```
 [Spazio per appunti su Deployment]
 
+credo sia meglio impoarare DOCKER CHE kubernetes
 
 
 
@@ -404,16 +405,16 @@ pip install langchain langgraph openai azure-openai streamlit gradio fastapi pan
 
 ## 📅 TIMELINE SETTIMANALE
 
-|Settimana|Focus|Deliverable|
-|---|---|---|
-|1|Setup + Fondamenti|Ambiente configurato + primo agente base|
-|2|Architetture + Progetto 1 Start|Chatbot customer service (versione base)|
-|3|Framework + Progetto 1 Complete|Chatbot con RAG deployato|
-|4|Memory/RAG + Progetto 2 Start|Agente analisi dati (prototipo)|
-|5|Orchestrazione + Progetto 2 Complete|API agente analisi in produzione|
-|6|Deployment + Progetto 3 Start|Sistema multi-agent (architettura)|
-|7|Security + Progetto 3 Complete|Sistema orchestrato sicuro|
-|8|Progetto Finale + Review|Enterprise assistant completo|
+| Settimana | Focus                                | Deliverable                              |
+| --------- | ------------------------------------ | ---------------------------------------- |
+| 1         | Setup + Fondamenti                   | Ambiente configurato + primo agente base |
+| 2         | Architetture + Progetto 1 Start      | Chatbot customer service (versione base) |
+| 3         | Framework + Progetto 1 Complete      | Chatbot con RAG deployato                |
+| 4         | Memory/RAG + Progetto 2 Start        | Agente analisi dati (prototipo)          |
+| 5         | Orchestrazione + Progetto 2 Complete | API agente analisi in produzione         |
+| 6         | Deployment + Progetto 3 Start        | Sistema multi-agent (architettura)       |
+| 7         | Security + Progetto 3 Complete       | Sistema orchestrato sicuro               |
+| 8         | Progetto Finale + Review             | Enterprise assistant completo            |
 
 ---
 
