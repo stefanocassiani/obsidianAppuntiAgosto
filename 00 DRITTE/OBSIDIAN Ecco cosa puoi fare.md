@@ -1,4 +1,4 @@
-
+SE TIENI PREMUTO **Ctrl+mousemovimento**  SI FILES  DELLA BARRA SULLA SX. TI FA VEDERE L'ANTEPRIMA
 
 
 **Trasforma i file in .MD**

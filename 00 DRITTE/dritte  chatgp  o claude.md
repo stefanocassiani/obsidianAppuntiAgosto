@@ -6,7 +6,8 @@ I like to use: "Summarize our entire conversation using a wiki-entry format"
 2
 I always ask Claude to synthesize our conversation when it’s running long and I know I’ll want to continue it in a new chat. Super useful. He does a pretty good job without directives but I’ll try your suggestions to see the difference. Thank you for sharing.
 
-3 DRITTA  [[Registrare e riepilogare automaticamente una sessione di interazione con un LLM]]
+3 DRITTA [[AI_Session_Log_Summary]]
+[[Registrare e riepilogare automaticamente una sessione di interazione con un LLM]]
 I've been working on something similar with an AI system I'm developing. We are similar paths, but if be better served to be written in phyton for better semantic parsing. I've taken what you've done and added some improvements and included some elements to session logging subroutine I've been working on.
 
 Now enter the code below at the begining or end of session. You will be prompted by LLM if you want the summary now or later. The code is agnostic so will work in most LLMS. Any questions let me know.
