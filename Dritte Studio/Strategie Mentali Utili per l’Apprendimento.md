@@ -1,6 +1,8 @@
+
+[[Principi Giapponesi per l’Apprendimento Efficace]]
 RICORDA IL METODO CHE AVEVI ALLESAME DI SCUOLA SOTTOLINE A E CREA COLLEGAMENTI MNEMONICI
 
-## 🧠 **Strategie Mentali Utili per l’Apprendimento**
+## 🧠 **Strategie Mentali Utili per l’Apprendimento
 
 1. **Studia in modo attivo:** Se possibile, usa un testo modificabile (PDF o Word) per scrivere **note tra i paragrafi** e **riassumi ogni sezione** chiedendoti:  
     👉 _“Come posso applicare questa informazione?”_
