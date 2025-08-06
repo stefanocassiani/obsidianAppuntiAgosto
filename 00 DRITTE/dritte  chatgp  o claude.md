@@ -1,3 +1,5 @@
+[[How To Remember EVERYTHING Like The Japanese Students]]
+
 https://www.reddit.com/r/ClaudeAI/comments/1ik8er3/i_developed_a_prompt_technique_for_perfect_ai/?share_id=0IvmDj5Uinlxk_MA6MKFy&utm_content=2&utm_medium=ios_app&utm_name=ioscss&utm_source=share&utm_term=1
 
 TRUCCO 1
