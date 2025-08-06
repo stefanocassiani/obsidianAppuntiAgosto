@@ -1,3 +1,5 @@
+
+
 https://www.reddit.com/r/mcp/comments/1mj0fxs/i_spent_3_weeks_building_my_dream_mcp_setup_and/
 
 https://00f.net/2025/07/31/mcp-as-api-wrappers/
@@ -8,6 +10,37 @@ https://github.com/docker/mcp-servers
 
 https://github.com/docker/mcp-servers
 
+
+**What is MCP?** Model Context Protocol is a standard created by Anthropic that gives Claude access to external tools and data, greatly expanding what it can do beyond basic chat.
+
+**My learning approach:** I find video content works best for me initially. I watch videos that break concepts down simply, then use documentation to learn terminology, and finally implement to solidify understanding.
+
+**Video resources:**
+
+_Understanding the basics:_
+
+- [Video 1: Introduction to MCP](https://youtu.be/7j_NE6Pjv-E?feature=shared)
+    
+- [Video 2: MCP Capabilities Explained](https://youtu.be/VChRPFUzJGA?feature=shared)
+    
+- [Video 3: Advanced MCP Concepts](https://youtu.be/5ZWeCKY5WZE?feature=shared)
+    
+
+_Implementation guides:_
+
+- [Video 4: Setting Up MCP - Part 1](https://youtu.be/PszckLRtFWI?feature=shared)
+    
+- [Video 5: Setting Up MCP - Part 2](https://youtu.be/wa_A0qY0anA?feature=shared)
+    
+
+**Documentation & Code:**
+
+- [Official MCP Documentation](https://modelcontextprotocol.io/introduction)
+    
+- [MCP Servers Repository](https://github.com/modelcontextprotocol/servers)
+    
+
+If you learn like I do, start with the videos, then review the documentation, and finally implement what you've learned.
 # The Uncomfortable Truth About MCP
 
 Most of the "amazing" MCP demos you see are:

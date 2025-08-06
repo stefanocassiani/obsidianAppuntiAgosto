@@ -1,3 +1,30 @@
+
+
+
+**Trasforma i file in .MD**
+[microsoft/markitdown: Python tool for converting files and office documents to Markdown.](https://github.com/microsoft/markitdown)
+
+
+
+Nella mia cartella download ho un link alla mia cartella Allegati di Obsidian. Poi salvo semplicemente il PDF nella cartella allegati.
+
+Ohhh questa è un'idea interessante. Quando dici link, intendi un collegamento alla cartella?
+
+Sì. Sono su Linux, quindi penso ad un collegamento, ma una scorciatoia dovrebbe funzionare.
+
+Questo ha in definitiva influenzato l'opzione che ho scelto; ho appuntato la mia cartella "leggi dopo" nel mio Vault Obsidian all'Accesso Rapido, e quindi ora quando salvo un PDF non ho bisogno di cliccare un sacco di volte per arrivarci.
+
+AADESSO Quando scarico qualcosa dal browser posso salvarlo da download direttam in  obsidian + hai il tasto veloce sul esplorarisorse.
+
+
+
+DRITTE CHAT PER FARE QUELlO QUI soPRA https://chatgpt.com/share/68937a2c-8d0c-8011-ad4e-b4c68d933bcd  è il chat gpt dellaccount colocked@ive,it
+
+
+
+
+
+
 Perfetto! Dimmi pure quali sono le tue esigenze specifiche o su cosa vuoi focalizzarti:
 
 - Vuoi migliorare la gestione delle attività e to-do con plugin tipo **Tasks**?

@@ -1,7 +1,29 @@
+---
+tags:
+  - template
+  - dynamic
+---
 [[MCP Reddit]]
 
+CORSO # Ollama Course – Build AI Apps Locally
 
-agentic = https://www.ibm.com/it-it/think/topics/agentic-ai
+[](https://www.youtube.com/@freecodecamp)
+https://www.youtube.com/watch?v=GWB9ApTPTv4
+
+
+agentic = https://www.ibm.com/it-it/think/topics/agentic-
+# 🧠 Templater Example
+
+- Current date: <% tp.date.now("YYYY-MM-DD") %>
+- Current time: <% tp.date.now("HH:mm") %>
+- Vault name: <% tp.user.vaultName() %>
+
+## 🔁 Reusable Block
+<%* 
+const name = await tp.system.prompt("What's your name?");
+tR += `Hello, ${name}!`
+%>
+ai
 
 
 [Hatchet](https://hatchet.run/)
