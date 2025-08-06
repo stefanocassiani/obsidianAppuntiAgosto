@@ -1,5 +1,9 @@
 FONTE:  https://www.reddit.com/r/learnmachinelearning/comments/1gn2skp/how_is_fastai_helpful/
 
+AWESOME template di ricerca cose interessanti su goggle: github  +awesome  +
+https://github.com/danieleongari/awesome-italian-reddit
+
+
 
 I have found [d2l.ai](http://d2l.ai/) to be an exhaustive learning resource.
 
