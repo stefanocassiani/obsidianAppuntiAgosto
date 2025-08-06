@@ -5,4 +5,6 @@ claude 3 https://claude.ai/share/83c5e896-cdab-4442-88c4-19cdfcaa2680
 
 FONTE https://survey.stackoverflow.co/2025/technology#worked-with-vs-want-to-work-with-language-worked-want
 
+manca  la parte di WORK daììci vai con il menu i ìn cima alllllllllllll aaaaaaaav,
+
 ![[Pasted image 20250806015120.png]]
