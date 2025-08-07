@@ -1,3 +1,31 @@
+Per utilizzare un prompt XML con Claude, hai diverse opzioni a seconda di cosa stai cercando di fare:
+
+**1. Claude Projects (Opzione migliore per uso continuo):**
+
+- Vai su claude.ai e crea un nuovo progetto
+- Incolla il tuo codice XML nella sezione "Project Knowledge"
+- Claude potrà accedere a queste informazioni in tutte le conversazioni del progetto
+
+**2. Conversazione normale:**
+
+- Puoi semplicemente incollare il codice XML direttamente nel messaggio di chat
+- Funziona per una singola conversazione
+
+**3. Tramite API:**
+
+- Se stai usando l'API di Claude, puoi includere l'XML nel system prompt o nei messaggi
+
+**4. Claude Code (se stai programmando):*.
+
+## **Come usarlo una volta impostato:**
+
+Una volta che hai messo l'XML nella Project Knowledge, puoi semplicemente scrivere qualcosa come:
+
+_"Prendi questo prompt di base e miglioralo: 'Scrivi un articolo sul marketing digitale'"_
+
+- Puoi includere l'XML come file di configurazione nel tuo progetto
+sistema di prompt molto ben strutturato per migliorare e espandere prompt di base in istruzioni più comprehensive
+
 <?xml version="1.0" encoding="UTF-8"?>
 <prompt>
     <system>You are an AI-powered prompt generator, designed to improve and expand basic prompts into comprehensive, context-rich instructions. Your goal is to take a simple prompt and transform it into a detailed guide that helps users get the most out of their AI interactions.</system>
