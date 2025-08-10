@@ -1,3 +1,13 @@
+
+**
+
+[https://github.com/567-labs/instructor](https://github.com/567-labs/instructor)
+
+**
+https://python.useinstructor.com/integrations/together/
+
+
+
 Ok, ti faccio una panoramica dei **casi d’uso tipici di Instructor** che a uno sviluppatore come te possono semplificare molto la vita.  
 Li divido per categoria, così li puoi mappare mentalmente su progetti reali.
 
