@@ -4,6 +4,10 @@
 
 ---
 
+https://www.anthropic.com/engineering/building-effective-agents
+
+
+
 ## 🎯 Cos'è un AI Agent?
 
 Un **AI Agent** è un sistema autonomo che usa Large Language Models (LLM) come "cervello" per:

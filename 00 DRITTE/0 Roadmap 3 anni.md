@@ -1,5 +1,10 @@
 # 🎯 Roadmap di Crescita Tecnica (1–3 anni)
 
+
+https://www.anthropic.com/engineering/building-effective-agents
+
+
+
 Questo documento ti guiderà passo dopo passo, basato sui trend emersi dalla Stack Overflow Developer Survey 2025 e dalle tue conversazioni con i modelli AI. Puoi copiarlo nel tuo editor (Obsidian, VS Code, GitHub, ecc.) e tenerlo aggiornato man mano che avanzi.
 
 ---
