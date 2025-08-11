@@ -1,3 +1,41 @@
+
+
+
+dritte :
+I run an AI engineering consultancy.
+
+I think there are going to be many people like you and it’s a smart move to transition from software engineering to ai engineering.
+
+You have three advantages as somebody who doesn’t have any ml/ai experience:
+
+1. you’re good at putting things to prod. Most ML people are terrible at this and can’t do anything outside of a jupyter notebook.
+    
+2. You have tons of motivation because you think your job depends on this. Many people who come from data science/ai research are lazy cause they are on high demand.
+    
+3. You’re cheaper than a PhD level researcher.
+    
+
+Don’t try to do heavy machine learning. Learning all that will take years and a ton of effort. And you’ll compete against people who have real world ML experience.
+
+Instead, build a few GPT/Stable Diffusion/<insert other open source model or API> app and _put them into prod_. You’ll learn a ton.
+
+If I interviewed you and you would demonstrate (1) solid software engineering skills, (2) a few AI products where you clearly demonstrated that you can use your brain to think about the product and not just engineering and (3) a ton of drive - I’d hire you in a second.
+
+We are testing a training programme where we upskill software engineers to AI engineers and here’s our syllabus for reference:
+
+1. Image generation Open source and closed source models, best image generator products, Stable Diffusion, Controlnet, Roop, Guardrails, Serverless deployments, Replicate, Tricks and tips for production
+    
+2. AI assisted software engineering Copilot, Cursor, Coderabbit, Aider
+    
+3. LLMs GPT APIs, Embeddings, RAG, Vector databases, Evaluations, Monitoring, Security, War stories
+    
+
+Hope this helps.
+
+https://www.freecodecamp.org/news/tag/ollama/
+
+https://www.freecodecamp.org/news/tag/ollama/
+
 https://www.reddit.com/r/ollama/comments/1ibhxvm/guide_to_installing_and_locally_running_ollama/?tl=it
 
 https://www.reddit.com/r/ollama/search/?q=Ollama+UIs&cId=db9cec72-08df-4653-9f90-75fef40719ad&iId=7c1b71c8-8ec9-4a48-a355-360ba7efe6cf
@@ -100,6 +138,11 @@ lista libri:
 ---
 
 ## Books in English about Ollama
+
+1 
+
+https://www.packtpub.com/en-us/product/harnessing-ollama-create-secure-local-llm-solutions-with-python-9781837020058
+
 
 - **Ollama in Action: Building Safe, Private AI with Ollama** (Leanpub)
     
