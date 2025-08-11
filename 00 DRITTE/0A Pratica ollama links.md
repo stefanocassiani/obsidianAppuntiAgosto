@@ -11,6 +11,8 @@ https://chromewebstore.google.com/detail/page-assist-a-web-ui-for/jfgfiigpkhlkbn
 repo:
 https://github.com/n4ze3m/page-assist
 
+LISTA DI TUTORIAL
+https://www.reddit.com/r/ollama/search/?q=tutorial&cId=36c190ee-041c-4f59-a4ad-cac57aea6bb9&iId=fb0a2b43-3aa2-4e7a-80ab-575906ee5456
 
 
 Ecco una lista completa con le descrizioni di Ollama dedicate agli sviluppatori software, affiancate dai link diretti alle risorse più utili per approfondire e iniziare a usare la piattaforma:
