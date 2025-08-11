@@ -65,3 +65,96 @@ Ecco una lista completa con le descrizioni di Ollama dedicate agli sviluppatori 
 - **Documentazione generale dettagliata**: raccolta completa di guide, riferimento API, esempi, installazione e uso su diversi sistemi operativi.
     
     - Pagina docs principale: [https://ollama.readthedocs.io/en/](https://ollama.readthedocs.io/en/)[](https://ollama.readthedocs.io/en/)
+
+
+
+
+lista libri:
+## Libri in italiano su Ollama
+
+- **Come usare LLM in locale con Ollama e Python** (articolo-guida approfondita)
+    
+    - Guida pratica per sviluppatori su come utilizzare Ollama, strumento open source per eseguire modelli linguistici (LLM) locali.
+        
+    - Spiega cosa è Ollama, come funziona da terminale, integrazione con Python e personalizzazioni di modelli.
+        
+    - Link utile: [https://www.diariodiunanalista.it/posts/llm-in-locale-usare-ollama-in-python/](https://www.diariodiunanalista.it/posts/llm-in-locale-usare-ollama-in-python/)
+        
+- **Eseguire un modello LLM in locale con Ollama - ClaudioBattaglino.it**
+    
+    - Panoramica su Ollama come motore multipiattaforma per eseguire LLM in locale, con esempi d’uso e confronto con strumenti simili.
+        
+    - Ideale per chi vuole iniziare a sperimentare senza GUI complesse, sfruttando API e CLI.
+        
+    - Link: [https://www.claudiobattaglino.it/eseguire-un-modello-llm-in-locale-con-ollama/](https://www.claudiobattaglino.it/eseguire-un-modello-llm-in-locale-con-ollama/)
+        
+- **DeepSeek R1: Guida Completa per Far Girare l'IA in Locale nel 2025**
+    
+    - Contiene sezioni introduttive su Ollama, utile per chi vuole capire rapidamente quanto Ollama semplifica l’uso di LLM in locale.
+        
+    - Descrive casi d’uso pratici come coding assistant, analisi testo e automazione.
+        
+    - Link: [https://mautoblog.com/posts/installare-deepseek-in-locale-con-ollama-guida-2025/](https://mautoblog.com/posts/installare-deepseek-in-locale-con-ollama-guida-2025/)
+        
+
+---
+
+## Books in English about Ollama
+
+- **Ollama in Action: Building Safe, Private AI with Ollama** (Leanpub)
+    
+    - Libro completo che guida passo passo all’uso di Ollama per eseguire LLM sul proprio hardware, focalizzandosi sulla privacy e sicurezza.
+        
+    - Copre setup, uso CLI, Python SDK, creazione di agenti, valutazione automatica e casi d’uso avanzati.
+        
+    - Link: [https://leanpub.com/ollama/read](https://leanpub.com/ollama/read)
+        
+- **Ollama Fast Track: A Hands-On Guide to Building Local LLM Powered Applications** by Eric Chandler Jr
+    
+    - Manuale pratico veloce per sviluppatori interessati a sfruttare Ollama per applicazioni LLM locali.
+        
+    - Spiega come scaricare, gestire e personalizzare modelli, con esempi di codice.
+        
+    - Link: [https://bookshop.org/p/books/ollama-fast-track-a-hands-on-guide-to-building-local-llm-powered-applications-jr-eric-chandler/22516768](https://bookshop.org/p/books/ollama-fast-track-a-hands-on-guide-to-building-local-llm-powered-applications-jr-eric-chandler/22516768)
+        
+- **Harnessing Ollama - Create Secure Local LLM Solutions with Python**
+    
+    - Libro tecnico dedicato a sviluppatori Python per creare soluzioni sicure LLM con Ollama, puntando su privacy e controllo dei dati.
+        
+    - Ideale per approcci professionali e personalizzazione avanzata.
+        
+    - Link: [https://www.packtpub.com/en-us/product/harnessing-ollama-create-secure-local-llm-solutions-with-python-9781837020058](https://www.packtpub.com/en-us/product/harnessing-ollama-create-secure-local-llm-solutions-with-python-9781837020058)
+        
+
+---
+
+## Libros en español sobre Ollama
+
+- **¿Qué es Ollama? Principales características y modelos - Hostinger**
+    
+    - Guía detallada que explica qué es Ollama, cómo funciona, principales modelos y casos de uso como chatbots locales, investigación privada y personalización.
+        
+    - Enfocado en usuarios que buscan ejecutar LLM sin depender de la nube.
+        
+    - Link: [https://www.hostinger.com/es/tutoriales/que-es-ollama](https://www.hostinger.com/es/tutoriales/que-es-ollama)
+        
+- **Ollama, empezando con la IA local - Blog Bujarra.com**
+    
+    - Artículo introductorio en español que muestra cómo usar Ollama para correr modelos de lenguaje grandes localmente, con beneficios y casos prácticos.
+        
+    - Recomendado para desarrolladores y entusiastas de IA.
+        
+    - Link: [https://www.bujarra.com/ollama-empezando-con-la-ia-local/](https://www.bujarra.com/ollama-empezando-con-la-ia-local/)
+        
+- **Pequeña guía de uso y modelos importantes de Ollama (PDF)**
+    
+    - Documento en PDF con una guía rápida sobre uso básico de Ollama y los modelos más importantes compatibles.
+        
+    - Útil para empezar a manejar la plataforma con ejemplos concretos.
+        
+    - Link: [https://es.scribd.com/document/890290049/ollama](https://es.scribd.com/document/890290049/ollama)
+        
+
+---
+
+Questi libri e risorse coprono aspetti fondamentali di Ollama come esecuzione di LLM in locale, personalizzazione tramite Modelfile, uso via CLI, API e SDK, oltre a casi d'uso pratici come chatbot, ricerca protetta e automazione.
