@@ -1,5 +1,43 @@
 # 🎯 Roadmap di Crescita Tecnica (1–3 anni)
 
+dritte 1:
+- **"AI this, AI that" → È tutta una bolla**  
+    Ci sono troppe startup e progetti che infilano l’etichetta “AI” nei loro prodotti anche quando non c’è un vero collegamento con l’intelligenza artificiale. Lo fanno solo per attirare l’attenzione degli investitori (VC — venture capital).
+    
+- **Attenzione alle “false competenze”**  
+    Limitarsi a usare modelli AI già pronti (esposti come API o libreria) o a scrivere prompt ben fatti non è sufficiente per diventare un esperto o essere competitivo in questo settore. È un approccio superficiale.
+    
+- **Il vero lavoro di AI richiede basi solide**  
+    Se vuoi davvero fare AI in modo serio e a lungo termine, dovresti studiare:
+    
+    - **Statistica applicata ai prodotti**
+        
+    - **PLM** (Product Lifecycle Management — gestione del ciclo di vita di un prodotto, anche in ottica dati/AI)
+        
+    - **Quant** (Quantitative analysis — l’analisi quantitativa è il “prossimo grande trend”)
+        
+- **Le fondamenta non passeranno di moda**  
+    Le discipline “storiche” dell’AI — **Machine Learning (ML)**, **Deep Learning (DL)** e **Data Science (DS)** — continueranno a rimanere centrali e rilevanti.  
+    Al contrario, certe mode recenti (come il feticismo per LLM e prompt engineering spacciati come “rivoluzione totale”) rischiano di essere temporanee.
+
+dritta 2:
+Non cercare di fare machine learning pesante. Imparare tutto questo richiederà anni e un sacco di sforzo. E dovrai competere con persone che hanno esperienza reale nel ML.
+
+Invece, costruisci qualche app GPT/Stable Diffusion/<inserisci altro modello open source o API> e mettile in produzione. Imparerai moltissimo.
+
+Se ti intervistassi e dimostrassi (1) solide competenze di ingegneria del software, (2) qualche prodotto AI in cui dimostri chiaramente di saper pensare al prodotto e non solo all’ingegneria, e (3) tanta determinazione, ti assumerei in un secondo.
+
+Stiamo testando un programma di formazione per far crescere ingegneri del software in ingegneri AI e questo è il nostro programma di studi come riferimento:
+
+- Generazione di immagini  
+    Modelli open source e closed source, migliori prodotti generativi di immagini, Stable Diffusion, Controlnet, Roop, Guardrails, deployment serverless, Replicate, trucchi e consigli per la produzione
+    
+- Ingegneria del software assistita da AI  
+    Copilot, Cursor, Coderabbit, Aider
+    
+- LLMs  
+    API GPT, embeddings, RAG, database vettoriali, valutazioni, monitoraggio, sicurezza, war stories
+
 
 Non cercare di fare machine learning pesante. Imparare tutto questo richiederà anni e un sacco di sforzo. E dovrai competere con persone che hanno esperienza reale nel ML.
 
