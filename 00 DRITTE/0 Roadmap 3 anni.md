@@ -1,6 +1,23 @@
 # 🎯 Roadmap di Crescita Tecnica (1–3 anni)
 
 
+Non cercare di fare machine learning pesante. Imparare tutto questo richiederà anni e un sacco di sforzo. E dovrai competere con persone che hanno esperienza reale nel ML.
+
+Invece, costruisci qualche app GPT/Stable Diffusion/<inserisci altro modello open source o API> e mettile in produzione. Imparerai moltissimo.
+
+Se ti intervistassi e dimostrassi (1) solide competenze di ingegneria del software, (2) qualche prodotto AI in cui dimostri chiaramente di saper pensare al prodotto e non solo all’ingegneria, e (3) tanta determinazione, ti assumerei in un secondo.
+
+Stiamo testando un programma di formazione per far crescere ingegneri del software in ingegneri AI e questo è il nostro programma di studi come riferimento:
+
+- Generazione di immagini  
+    Modelli open source e closed source, migliori prodotti generativi di immagini, Stable Diffusion, Controlnet, Roop, Guardrails, deployment serverless, Replicate, trucchi e consigli per la produzione
+    
+- Ingegneria del software assistita da AI  
+    Copilot, Cursor, Coderabbit, Aider
+    
+- LLMs  
+    API GPT, embeddings, RAG, database vettoriali, valutazioni, monitoraggio, sicurezza, war stories
+    
 https://www.anthropic.com/engineering/building-effective-agents
 
 

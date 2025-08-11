@@ -1,36 +1,22 @@
 
 
+dritte :Non cercare di fare machine learning pesante. Imparare tutto questo richiederà anni e un sacco di sforzo. E dovrai competere con persone che hanno esperienza reale nel ML.
 
-dritte :
-I run an AI engineering consultancy.
+Invece, costruisci qualche app GPT/Stable Diffusion/<inserisci altro modello open source o API> e mettile in produzione. Imparerai moltissimo.
 
-I think there are going to be many people like you and it’s a smart move to transition from software engineering to ai engineering.
+Se ti intervistassi e dimostrassi (1) solide competenze di ingegneria del software, (2) qualche prodotto AI in cui dimostri chiaramente di saper pensare al prodotto e non solo all’ingegneria, e (3) tanta determinazione, ti assumerei in un secondo.
 
-You have three advantages as somebody who doesn’t have any ml/ai experience:
+Stiamo testando un programma di formazione per far crescere ingegneri del software in ingegneri AI e questo è il nostro programma di studi come riferimento:
 
-1. you’re good at putting things to prod. Most ML people are terrible at this and can’t do anything outside of a jupyter notebook.
+- Generazione di immagini  
+    Modelli open source e closed source, migliori prodotti generativi di immagini, Stable Diffusion, Controlnet, Roop, Guardrails, deployment serverless, Replicate, trucchi e consigli per la produzione
     
-2. You have tons of motivation because you think your job depends on this. Many people who come from data science/ai research are lazy cause they are on high demand.
+- Ingegneria del software assistita da AI  
+    Copilot, Cursor, Coderabbit, Aider
     
-3. You’re cheaper than a PhD level researcher.
-    
+- LLMs  
+    API GPT, embeddings, RAG, database vettoriali, valutazioni, monitoraggio, sicurezza, war stories
 
-Don’t try to do heavy machine learning. Learning all that will take years and a ton of effort. And you’ll compete against people who have real world ML experience.
-
-Instead, build a few GPT/Stable Diffusion/<insert other open source model or API> app and _put them into prod_. You’ll learn a ton.
-
-If I interviewed you and you would demonstrate (1) solid software engineering skills, (2) a few AI products where you clearly demonstrated that you can use your brain to think about the product and not just engineering and (3) a ton of drive - I’d hire you in a second.
-
-We are testing a training programme where we upskill software engineers to AI engineers and here’s our syllabus for reference:
-
-1. Image generation Open source and closed source models, best image generator products, Stable Diffusion, Controlnet, Roop, Guardrails, Serverless deployments, Replicate, Tricks and tips for production
-    
-2. AI assisted software engineering Copilot, Cursor, Coderabbit, Aider
-    
-3. LLMs GPT APIs, Embeddings, RAG, Vector databases, Evaluations, Monitoring, Security, War stories
-    
-
-Hope this helps.
 
 https://www.freecodecamp.org/news/tag/ollama/
 
