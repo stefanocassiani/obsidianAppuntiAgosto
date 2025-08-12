@@ -123,19 +123,93 @@ print("Valore ottimale:", result.x)
    - Esplora `ML.NET` per analisi e modelli di base.  
    - Usa `System.Data` per query SQL e aggregazioni KPI.
 
+inizio GENERAZIONE PERPLEXYTY
+## Python
 
+1. **pandas**
+    
+    - Repository ufficiale pandas, aggiornata al 7 luglio 2025:  
+        [https://github.com/pandas-dev/pandas](https://github.com/pandas-dev/pandas)
+        
+    - Tutorial con esempi pratici su NumPy, Pandas e Matplotlib:  
+        [https://github.com/veb-101/Numpy-Pandas-Matplotlib-Tutorial](https://github.com/veb-101/Numpy-Pandas-Matplotlib-Tutorial)
+        
+    - Progetto didattico con esercizi pratici per NumPy, Pandas e Matplotlib:  
+        [https://github.com/WindJammer6/7.-NumPy-Pandas-Matplotlib-Learning-and-Practice-Python](https://github.com/WindJammer6/7.-NumPy-Pandas-Matplotlib-Learning-and-Practice-Python)
+        
+    - Corso A-Z su NumPy, SciPy, Matplotlib e Pandas (2025):  
+        [https://github.com/Aronno1920/Python-Library-Learning](https://github.com/Aronno1920/Python-Library-Learning)
+        
+2. **numpy**
+    
+    - Incluso nei tutorial e progetti sopra, ad esempio:  
+        [https://github.com/veb-101/Numpy-Pandas-Matplotlib-Tutorial](https://github.com/veb-101/Numpy-Pandas-Matplotlib-Tutorial)  
+        [https://github.com/WindJammer6/7.-NumPy-Pandas-Matplotlib-Learning-and-Practice-Python](https://github.com/WindJammer6/7.-NumPy-Pandas-Matplotlib-Learning-and-Practice-Python)
+        
+3. **matplotlib**
+    
+    - Repository ufficiale matplotlib (ultima release dicembre 2024):  
+        [https://matplotlib.org](https://matplotlib.org/)
+        
+    - Tutorial e risorse in "awesome-matplotlib" (non link diretto trovato, ma si può cercare su GitHub)
+        
+    - Tutorial di visualizzazione nel progetto didattico:  
+        [https://github.com/veb-101/Numpy-Pandas-Matplotlib-Tutorial](https://github.com/veb-101/Numpy-Pandas-Matplotlib-Tutorial)
+        
+4. **Progetti innovativi**
+    
+    - Progetto emergente PyGWalker (la risorsa ufficiale si può trovare cercando su GitHub o pagine correlate, link specifico non trovato nella ricerca)
+        
+
+## .NET
+
+1. **ML.NET**
+    
+    - Repository Microsoft con esempi ML.NET aggiornati:  
+        [https://github.com/dotnet/machinelearning-samples](https://github.com/dotnet/machinelearning-samples)
+        
+2. **System.Data e strumenti per query SQL e KPI**
+    
+    - Raccolta di librerie e strumenti in "awesome-dotnet-core":  
+        [https://github.com/thangchung/awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core)
+        
+    - Raccolta ML con risorse anche per System.Data:  
+        [https://github.com/SergeyTeplyakov/awesome-dotnet-machine-learning](https://github.com/SergeyTeplyakov/awesome-dotnet-machine-learning)
+        
+3. **Aggiornamenti e modernizzazione .NET 9**
+    
+    - Per webcast e aggiornamenti si consiglia seguire il canale ufficiale Microsoft .NET su YouTube o la documentazione ufficiale .NET 9.
+
+FINE GENERAZIONE PERPLEXYTY
+
+
+
+
+
+
+---
 
 ### Livello Intermedio
 1. Integra pipeline dati → salvataggio su DB → dashboard (Power BI o Plotly).  
 2. Versiona dataset e modelli con **DVC** o **MLflow**.  
 3. Automatizza retraining con **GitHub Actions** o **Azure Pipelines**.
 
+{genera ricerca perplexity come sopra}
+
+----
+
 ### Livello Avanzato
 1. Applica **Quantitative Analysis** per scenari complessi (previsioni, ottimizzazione).  
 2. Implementa monitoraggio continuo in produzione (Prometheus, Grafana, Azure Monitor).  
 3. Ottimizza performance e costi → deployment su cloud scalabile (Azure ML, AWS Sagemaker).
 
+{genera ricerca perplexity come sopra}
+
+
 ---
+
+----
+
 
 ## 🔗 Consiglio pratico
 Integra queste tre competenze nel ciclo di sviluppo:
