@@ -1,5 +1,10 @@
 # 📚 Statistica, PLM/MLOps e Quantitative Analysis per AI — Guida Completa per Dev SW
 
+
+IN CORSO: https://github.com/dotnet/machinelearning-samples?tab=readme-ov-file
+
+https://github.com/dotnet/machinelearning-samples/tree/main/samples/csharp/getting-started/BinaryClassification_SentimentAnalysis
+
 ## 1. 📊 Statistica applicata ai prodotti
 
 ### Libri
