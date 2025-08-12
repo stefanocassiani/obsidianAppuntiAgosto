@@ -1,7 +1,8 @@
 # Lista Tutorial AI Pratici e Monetizzabili - Python/.NET/ML.NET
-
+**FONTE:** https://claude.ai/share/2abc0ea6-cc3c-4a2f-bfc8-f189ba8a9cfc
 **NOTE**:
 **Il game changer**: Ora hai risorse curate da **insider dell'industria** (Meta, Microsoft, università top) invece di liste generiche. Questo ti posiziona immediatamente a un livello superiore rispetto alla competizione!
+APPUNTI: https://docs.google.com/document/d/1kBqWZYX1h4NyQ8CNbzB9XYymxEJsflgrnbgHuIRpckI/edit?tab=t.0, li trovin in basso, cerca "APPUNTI".
 
 **CREA e genera QUESTO: Vuoi che iniziamo subito con il piano dei primi 30 giorni?**
 
