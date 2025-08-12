@@ -5,6 +5,9 @@
 
 **CREA e genera QUESTO: Vuoi che iniziamo subito con il piano dei primi 30 giorni?**
 
+### 🚀 Progetti pronti per partire ML
+
+https://docs.google.com/document/d/1kBqWZYX1h4NyQ8CNbzB9XYymxEJsflgrnbgHuIRpckI/edit?tab=t.0
 ## 🎯 **1. SOLIDIFICARE LE BASI AI DUREVOLI**
 
 ### **Risorse Teoriche Fondamentali**
