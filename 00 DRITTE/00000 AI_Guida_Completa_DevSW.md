@@ -123,6 +123,8 @@ print("Valore ottimale:", result.x)
    - Esplora `ML.NET` per analisi e modelli di base.  
    - Usa `System.Data` per query SQL e aggregazioni KPI.
 
+
+
 ### Livello Intermedio
 1. Integra pipeline dati → salvataggio su DB → dashboard (Power BI o Plotly).  
 2. Versiona dataset e modelli con **DVC** o **MLflow**.  
