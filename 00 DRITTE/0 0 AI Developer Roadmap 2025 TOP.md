@@ -1,4 +1,20 @@
-# 🚀 AI Developer Roadmap 2025 - Da C# a AI Engineer
+# 🚀 AI Developer Roadmap 2025 - Da C# a AI Engineer https://roadmap.sh/?fl=0 https://roadmap.sh/full-stack https://roadmap.sh/ai-engineer https://roadmap.sh/product-manager
+
+
+https://learn.microsoft.com/en-us/dotnet/machine-learning/
+
+https://microsoft.github.io/generative-ai-for-beginners/?fbclid=IwY2xjawMJH3NleHRuA2FlbQIxMABicmlkETBGUTBEV0haVmFZMVA3aDlYAR4N_bnlIK_PUg8YQvQoHQ9TJHreNwA9XpLjT18dY12T46gxqrO_v_k4L4ukdg_aem_ksXae3NxRF96mqXKKOwB6w#/
+
+
+.NET
+https://github.com/microsoft/Generative-AI-for-beginners-dotnet?WT.mc_id=academic-105485-koreyst
+
+https://github.com/microsoft/generative-ai-for-beginners
+
+
+
+
+
 
 _Roadmap pratica per sviluppatore C# → AI Engineer con focus monetizzazione_
 
@@ -7,6 +23,7 @@ FONTE {APRI CON ACCOUNT acolocked@live.it}
 (https://claude.ai/chat/a2c6aded-8420-488a-9ea0-96602cabfb9e)
 
 perplexity accocunt acolocked@live.it [sono uno sviluppatore sw, mi dai una mega classifica di tutte le...](https://www.perplexity.ai/search/sono-uno-sviluppatore-sw-mi-da-YYTL1RmFQMe6C4pOQeMDCA)
+
 
 ---
 
