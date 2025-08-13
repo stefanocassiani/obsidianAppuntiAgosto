@@ -2,6 +2,10 @@
 
 FONTI AI REFERENCE E BLOGS # Artificial Intelligence ## AI company blogs
 
+**ML.NET (Microsoft.ML libreria) in C# – Machine Learning**
+https://www.youtube.com/playlist?list=PLoZNHBEyxFQFyOHUuj-HcMVjHK5aD_yD9
+
+
 ## Guidelines
 
   
