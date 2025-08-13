@@ -65,7 +65,12 @@ https://www.youtube.com/playlist?list=PLoZNHBEyxFQFyOHUuj-HcMVjHK5aD_yD9
 - [Community wiki](https://www.reddit.com/r/artificial/wiki/community) (anyone can edit this)
 
   
+https://forum.freecodecamp.org/
 
+https://www.freecodecamp.org/fcc579e21ad-53cb-4574-b731-a97375ce5d2b
+
+gruppi WA 
+https://web.whatsapp.com/
 # AI Related Subreddits
 
   
