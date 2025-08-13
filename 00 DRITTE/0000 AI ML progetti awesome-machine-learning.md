@@ -1,3 +1,6 @@
+https://docs.google.com/document/d/1kBqWZYX1h4NyQ8CNbzB9XYymxEJsflgrnbgHuIRpckI/edit?tab=t.0
+appunti per ml.net
+
 Ecco i progetti "awesome" di machine learning anche per .NET e ML.NET con i link cliccabili accanto ai nomi:
 
 1. **josephmisiti/awesome-machine-learning**  
