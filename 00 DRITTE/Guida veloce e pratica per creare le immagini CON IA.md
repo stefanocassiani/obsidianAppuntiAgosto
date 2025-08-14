@@ -1,10 +1,18 @@
 
 Perfetto, ti preparo una **guida veloce e pratica** per creare le immagini di _Mordicchio_ gratis
 usando due alternative a MidJourney: **Bing Image Creator** e **Leonardo.AI**.
+HAI DUE LINK  A: dove scrgli in basso a sx invece di chatgpt metti  DALL.e3
+b un altro sito
 
-LINK A https://www.bing.com/images/create?q=A+joyful+completely+black+pug+named+Mordicchio%2C+wearing+a+thin+blue+harness+about+1+cm+wide%2C+flying+happily+through+a+magical+sky+full+of+floating+islands+and+flowers%2C+anime+style%2C+Studio+Ghibli+inspired%2C+soft+shading%2C+vibrant+colors%2C+whimsical+clouds%2C+cinematic+composition%0A%0A%0A&rt=4&mdl=1&FORM=GENCRE&id=1-689dbdee978b4586a1fa843875ba38d3
+LINK A https://www.bing.com/images/create/
+
+https://www.bing.com/images/create?q=A+joyful+completely+black+pug+named+Mordicchio%2C+wearing+a+thin+blue+harness+about+1+cm+wide%2C+flying+happily+through+a+magical+sky+full+of+floating+islands+and+flowers%2C+anime+style%2C+Studio+Ghibli+inspired%2C+soft+shading%2C+vibrant+colors%2C+whimsical+clouds%2C+cinematic+composition%0A%0A%0A&rt=4&mdl=1&FORM=GENCRE&id=1-689dbdee978b4586a1fa843875ba38d3
 
 LINK B https://leonardo.ai/
+https://app.leonardo.ai/
+
+
+**{fc è bene creare un prompt (richiesta ) a chatgpt con le istruzioni da dare poi in pasto a bing che creera poi l' immagine}**
 
 ---
 
@@ -136,3 +144,22 @@ Li adatterò per funzionare **al meglio sia su Bing (DALL·E 3)** sia su **Leona
 ---
 
 Se vuoi, posso anche prepararti **un unico prompt "multi-scena"** che chieda a Bing o Leonardo di generare Mordicchio in **più scenari celestiali nella stessa immagine** — in modo da avere un ricordo artistico completo.
+
+## **Prompt multi-scena – Versione Bing (DALL·E 3)**
+
+💡 In Bing conviene essere descrittivi ma compatti, evitando troppi parametri tecnici.
+
+`Create a single wide panoramic image showing multiple scenes in a soft, dreamy style:  Scene 1: Mordicchio, a completely black pug, wearing a thin blue harness about 1 cm wide, joyfully playing on fluffy white clouds under golden sunlight.  Scene 2: Mordicchio peacefully resting among glowing pastel clouds with tiny angel wings, looking serene.  Scene 3: Mordicchio running happily on a path made of clouds with gentle birds flying around.  Scene 4: Mordicchio as a small celestial guardian with a crown of flowers, surrounded by floating stars and galaxies.  Soft pastel colors, cinematic lighting, heartwarming and emotional atmosphere.`
+
+---
+
+## **Prompt multi-scena – Versione Leonardo.AI**
+
+💡 In Leonardo si può dare più dettaglio tecnico e richiedere stili artistici diversi in una sola immagine.
+
+`A cinematic collage in 4 panels, each showing Mordicchio, a completely black pug, wearing a thin blue harness about 1 cm wide, in different heavenly scenes: 1) Watercolor illustration style: Mordicchio joyfully playing on fluffy white clouds under warm sunlight, surrounded by soft birds and sparkles. 2) Oil painting style: Mordicchio resting among golden sunset clouds, with tiny angel wings and a radiant glow. 3) Ultra realistic photo style: Mordicchio running happily on a glowing cloud path, sharp detail on his fur, bright sky in the background. 4) Fantasy art style: Mordicchio as a celestial guardian with a flower crown, surrounded by glowing galaxies and pastel planets. Highly detailed, cinematic composition, soft lighting, vivid colors.`
+
+---
+
+Se vuoi, posso anche **impaginare per te la scena in modo da poterla dare a Bing e Leonardo in formato "pronto copia/incolla"** con le pause e la formattazione perfetta per interpretazione ottimale.  
+Vuoi che te li preparo in quel formato immediato?
