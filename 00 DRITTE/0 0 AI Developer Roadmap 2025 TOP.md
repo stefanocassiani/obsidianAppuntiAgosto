@@ -1,6 +1,7 @@
 # 🚀 AI Developer Roadmap 2025 - Da C# a AI Engineer https://roadmap.sh/?fl=0 https://roadmap.sh/full-stack https://roadmap.sh/ai-engineer https://roadmap.sh/product-manager
 
 
+
 https://learn.microsoft.com/en-us/dotnet/machine-learning/
 
 https://microsoft.github.io/generative-ai-for-beginners/?fbclid=IwY2xjawMJH3NleHRuA2FlbQIxMABicmlkETBGUTBEV0haVmFZMVA3aDlYAR4N_bnlIK_PUg8YQvQoHQ9TJHreNwA9XpLjT18dY12T46gxqrO_v_k4L4ukdg_aem_ksXae3NxRF96mqXKKOwB6w#/
@@ -11,6 +12,18 @@ https://github.com/microsoft/Generative-AI-for-beginners-dotnet?WT.mc_id=academi
 
 https://github.com/microsoft/generative-ai-for-beginners
 
+
+https://academy.jetbrains.com/?tag=Algorithms+and+Data+Structures
+
+##### Subjects
+
+[AI & AI Coding Tools](https://academy.jetbrains.com/?tag=%E2%9C%A8+AI+%26+AI+Coding+Tools)[Algorithms and Data Structures](https://academy.jetbrains.com/?tag=Algorithms+and+Data+Structures)[Backend](https://academy.jetbrains.com/?tag=Backend)[Data Science](https://academy.jetbrains.com/?tag=Data+Science)[Deep Learning](https://academy.jetbrains.com/?tag=Deep+Learning)[DevOps](https://academy.jetbrains.com/?tag=DevOps)[Kotlin & Android](https://academy.jetbrains.com/?tag=Kotlin+%26+Android)[Machine Learning](https://academy.jetbrains.com/?tag=Machine+Learning)[Math](https://academy.jetbrains.com/?tag=Math)[ML & Math](https://academy.jetbrains.com/?tag=ML+%26+Math)[Most popular](https://academy.jetbrains.com/?tag=Most+popular)[SQL and Databases](https://academy.jetbrains.com/?tag=SQL+and+Databases)[Web Dev](https://academy.jetbrains.com/?tag=Web+Dev)
+
+##### Languages
+
+[C/C++](https://academy.jetbrains.com/?tag=C%2FC%2B%2B)[Go](https://academy.jetbrains.com/?tag=Go)[HTML/CSS](https://academy.jetbrains.com/?tag=HTML%2FCSS)[Java](https://academy.jetbrains.com/?tag=Java)[JavaScript](https://academy.jetbrains.com/?tag=JavaScript)[Kotlin](https://academy.jetbrains.com/?tag=Kotlin)[Python](https://academy.jetbrains.com/?tag=Python)[Rust](https://academy.jetbrains.com/?tag=Rust)[Scala](https://academy.jetbrains.com/?tag=Scala)
+# 100 Days of Code - The Complete Python Pro Bootcamp  se guardi ce ne sono molti altri di plugin
+https://plugins.jetbrains.com/plugin/25212-100-days-of-code--the-complete-python-pro-bootcamp
 
 
 
