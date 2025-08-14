@@ -11,6 +11,7 @@ Questo prompt è specificamente ottimizzato per:
 Puoi copiarlo e incollarlo direttamente in ChatGPT alla fine di qualsiasi conversazione tecnica per ottenere riassunti strutturati e actionable, perfetti per i tuoi "Logs Riassunti" in Obsidian!
 
 La struttura mantiene l'essenza del prompt originale ma aggiunge tutti gli elementi specifici che servono a te come professionista IT. 🚀
+
 🚀🚀🚀🚀🚀🚀    ECCO LOSCRIPT DA QUI IN GIU:    🚀🚀🚀🚀🚀
 
 
