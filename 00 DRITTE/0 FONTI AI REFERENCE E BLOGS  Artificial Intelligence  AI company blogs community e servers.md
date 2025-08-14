@@ -2,9 +2,30 @@
 
 FONTI AI REFERENCE E BLOGS # Artificial Intelligence ## AI company blogs
 
+HAI:
+1 REDDIT 
+2 DISCORD 
+3 STACKOVERFLOW 
+
+
 **ML.NET (Microsoft.ML libreria) in C# – Machine Learning**
 https://www.youtube.com/playlist?list=PLoZNHBEyxFQFyOHUuj-HcMVjHK5aD_yD9
 
+
+
+## Come iniziare a partecipare al meglio nei server discord:
+
+- **Leggi le regole del server** appena entri per capire il tipo di interazione e i canali più utili.
+    
+- **Presentati nel canale dedicato** (molti server ne hanno uno per le presentazioni).
+    
+- **Partecipa alle discussioni tecniche** chiedendo o offrendo aiuto per progetti su AI, TensorFlow, ML.
+    
+- **Usa i canali job/offerte di lavoro** per trovare o proporre collaborazioni e freelance.
+    
+- **Sii attivo e contribuisci con risorse** e feedback, così costruisci reputazione e network.
+    
+- **Partecipa agli eventi, workshop e AMA** organizzati dalla community per apprendere e farti conoscere.
 
 ## Guidelines
 
