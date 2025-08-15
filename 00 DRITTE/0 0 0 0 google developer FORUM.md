@@ -101,6 +101,7 @@ Ecco una spiegazione dettagliata delle community Google Developer, cosa puoi tro
 - **Meta for Developers:** Risorse e discussioni su servizi Meta/Facebook developer.[](https://ellow.io/15-best-communities-that-every-developer-should-join/)
     
 
+https://ellow.io/15-best-communities-that-every-developer-should-join/
 ---
 
 ## In Sintesi
