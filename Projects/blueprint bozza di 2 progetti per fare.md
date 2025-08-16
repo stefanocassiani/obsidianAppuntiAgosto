@@ -1,12 +1,12 @@
+Chatgpt account cassianistefano@gmail.com
 https://chatgpt.com/c/689f9e88-f8b4-832f-ba9a-c1adf0320c35
-
 
 DUE PROGETTI: 
 1 |**AI-Powered Data Insights**|
 
 2 |**Custom Chatbot Platform**|
 
-progetto 1 
+**progetto 1** 
 # 📊 AI-Powered Data Insights (SaaS con IA su Vercel)
 
 ## 🚀 Panoramica
