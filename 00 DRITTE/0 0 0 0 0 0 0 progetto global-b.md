@@ -529,6 +529,8 @@ spiegamelo semplicemente il diagramma nel modo piu visivo possibile, non sisegna
 12 inizio primo modulo 
 
 
+13 apertura Claude 2 acolocked@live.it [ERP Modulare Implementazione - Claude](https://claude.ai/chat/c558d3a2-36d3-4051-ba19-8e0b404dab76)
+
 
 
 
