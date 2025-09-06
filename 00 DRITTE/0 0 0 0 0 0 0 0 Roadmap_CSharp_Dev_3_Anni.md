@@ -1,8 +1,14 @@
 # Roadmap 3 Anni – Diventare Developer C#/.NET + AI/Cloud  
 
-
+1
 https://drive.google.com/file/d/1oguTsMeIs87WD-dOUE2motAJry3Mhxht/view?usp=sharing
-https://github.com/milanm/DotNet-Developer-Roadmap
+
+2 https://github.com/milanm/DotNet-Developer-Roadmap
+
+3 https://github.com/milanm/DotNet-Developer-Roadmap?tab=readme-ov-file
+4 https://newsletter.techworld-with-milan.com/
+5 https://substack.com/home email s.acostacassiani@itsprodigi.com
+6 https://www.reddit.com/r/Substack/comments/1e5jqma/what_is_substack/?tl=it
 
 
 ![[NET Roadmap.pdf]]
