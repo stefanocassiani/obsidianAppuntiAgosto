@@ -1,4 +1,11 @@
-# Roadmap 3 Anni – Diventare Developer C#/.NET + AI/Cloud![[NET Roadmap.pdf]]
+# Roadmap 3 Anni – Diventare Developer C#/.NET + AI/Cloud  
+
+
+https://drive.google.com/file/d/1oguTsMeIs87WD-dOUE2motAJry3Mhxht/view?usp=sharing
+https://github.com/milanm/DotNet-Developer-Roadmap
+
+
+![[NET Roadmap.pdf]]
 
 [https://chatgpt.com/share/68bc49aa-666c-8013-b69f-7ac04f06d3f7](https://chatgpt.com/share/68bc49aa-666c-8013-b69f-7ac04f06d3f7)
 
