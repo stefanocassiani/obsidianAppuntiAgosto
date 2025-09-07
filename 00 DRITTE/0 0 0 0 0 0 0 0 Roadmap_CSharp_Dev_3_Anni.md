@@ -1,3 +1,6 @@
+https://docs.google.com/document/d/1bNLeKg6XYA_AMPgjmQ-yXZrwCj1Gr-PBm6i4AtB4vMc/edit?tab=t.0
+
+
 # Roadmap 3 Anni – Diventare Developer C#/.NET + AI/Cloud  
 
 0 **[https://drive.google.com/drive/u/0/folders/1aK7kQgehaI-ldho1LQHz8_jq26xgZl1N](https://drive.google.com/drive/u/0/folders/1aK7kQgehaI-ldho1LQHz8_jq26xgZl1N)**

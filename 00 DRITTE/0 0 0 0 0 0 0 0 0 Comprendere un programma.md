@@ -2,6 +2,8 @@
 https://docs.google.com/document/d/1PKDphY650i_8D2TQ3xBPvuCG2x2_sJHfUh7xx3zr47c/edit?tab=t.0
 
 
+https://docs.google.com/document/d/1bNLeKg6XYA_AMPgjmQ-yXZrwCj1Gr-PBm6i4AtB4vMc/edit?tab=t.0
+
 ### Riepilogo:
 
 - Il **debugging** è fondamentale per comprendere come funziona un programma, ma non è l'unica tecnica.
