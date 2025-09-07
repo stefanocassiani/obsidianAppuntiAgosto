@@ -1,4 +1,4 @@
-https://docs.google.com/document/d/1bNLeKg6XYA_AMPgjmQ-yXZrwCj1Gr-PBm6i4AtB4vMc/edit?tab=t.0
+0 **[https://drive.google.com/drive/u/0/folders/1aK7kQgehaI-ldho1LQHz8_jq26xgZl1N](https://drive.google.com/drive/u/0/folders/1aK7kQgehaI-ldho1LQHz8_jq26xgZl1N)**
 
 https://docs.google.com/document/d/1bNLeKg6XYA_AMPgjmQ-yXZrwCj1Gr-PBm6i4AtB4vMc/edit?tab=t.0
 
@@ -14,6 +14,29 @@ https://drive.google.com/file/d/1oguTsMeIs87WD-dOUE2motAJry3Mhxht/view?usp=shari
 4 https://newsletter.techworld-with-milan.com/
 5 https://substack.com/home email s.acostacassiani@itsprodigi.com
 6 https://www.reddit.com/r/Substack/comments/1e5jqma/what_is_substack/?tl=it
+
+
+Ecco i migliori repository e risorse con i link cliccabili per esplorare esempi completi di architetture a microservizi in .NET:
+
+- **eShopOnContainers (Microsoft)**
+    
+    - Repository: [https://github.com/dotnet-architecture/eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers)
+        
+- **Clean Architecture by Jason Taylor**
+    
+    - Repository: [https://github.com/jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture)
+        
+- **eShopOnWeb (monolite strutturato)**
+    
+    - Repository: [https://github.com/dotnet-architecture/eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb)
+        
+- **Alperen Kucukali - dotnet-microservices**
+    
+    - Repository: [https://github.com/alperenkucukali/dotnet-microservices](https://github.com/alperenkucukali/dotnet-microservices)
+        
+- **Guida ufficiale Microsoft sui microservizi .NET**
+    
+    - Documentazione completa: [https://learn.microsoft.com/en-us/dotnet/architecture/microservices/](https://learn.microsoft.com/en-us/dotnet/architecture/microservices/)
 
 
 ![[NET Roadmap.pdf]]
