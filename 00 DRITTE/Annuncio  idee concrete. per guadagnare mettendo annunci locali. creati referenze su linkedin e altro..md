@@ -1,3 +1,7 @@
+1 [Data uscita Dell Latitude](https://chatgpt.com/c/68d841b2-50bc-8330-bf39-7abc41db1895) 
+https://chatgpt.com/c/68d841b2-50bc-8330-bf39-7abc41db1895
+
+ 2 obsidian://open?vault=Documenti&file=Strumenti%20fisici%20e%20virtuali%20per%20progetto%20Annuncio
 
 
 ## 🖥️ Assistenza PC & Hardware
@@ -57,6 +61,8 @@
 - Volantini nei posti strategici (università, tabacchi, cartolerie, bar vicino alle scuole).
     
 - Passaparola → un cliente soddisfatto ad Arezzo ti porta altri.
+-  FIVERR  [Fiverr / Search Results for 'digital services'](https://www.fiverr.com/search/gigs?query=digital%20services&source=top-bar&ref_ctx_id=f1382383a0054a0da65c2a0a451c459e&search_in=everywhere&search-autocomplete-original-term=digital%20services)
+-
     
 
 ---
