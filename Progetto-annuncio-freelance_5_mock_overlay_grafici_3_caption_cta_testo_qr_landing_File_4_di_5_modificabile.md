@@ -1,5 +1,10 @@
 # 5 mock‑overlay grafici (ready-for-Canva)
 
+
+![[Recursos y comunidades recomendadas (IA, desarrollo, marketing, automatización, CRM).pdf]]
+
+![[Recursos y comunidades recomendadas (IA, desarrollo, marketing, automatización, CRM).docx]]
+
 Di seguito trovi 5 mock visivi pronti da ricreare in Canva o Photoshop. Ogni mock contiene: *brief immagine*, *overlay testuale (IT/EN, pochissime parole)*, *posizionamento testo*, *palette consigliata*, *props/elementi smile/twist*, *formati di esportazione consigliati*. Usa una foto professionale (tu o collaboratore) con luce morbida – vedi keyword stock suggerite.
 
 ---
