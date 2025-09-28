@@ -1,5 +1,8 @@
 # 5 mock‑overlay grafici (ready-for-Canva)
 
+https://chatgpt.com/s/dr_68d880401eec8191a9044ac43851a2ec
+
+
 
 ![[Recursos y comunidades recomendadas (IA, desarrollo, marketing, automatización, CRM).pdf]]
 
