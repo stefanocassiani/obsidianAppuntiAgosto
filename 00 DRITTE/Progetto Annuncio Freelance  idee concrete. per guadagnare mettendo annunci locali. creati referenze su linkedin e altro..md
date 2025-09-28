@@ -4,6 +4,8 @@ https://chatgpt.com/c/68d841b2-50bc-8330-bf39-7abc41db1895
  2 obsidian://open?vault=Documenti&file=Strumenti%20fisici%20e%20virtuali%20per%20progetto%20Annuncio
 
 
+
+
 ## 🖥️ Assistenza PC & Hardware
 
 - **Riparazioni computer/laptop** (sostituzione SSD, RAM, alimentatori, pulizia ventole da polvere).
